@@ -20,6 +20,15 @@
    * [ExamplesHoudiniRenderingProceduralSop Rendering a ProceduralSop]
  * Procedurals
    * [ExamplesProceduralsIntro Introducing Procedurals]
+   * [ExamplesProceduralsSimpleGeometry Simple Cube Geometry] 
+   * [ExamplesProceduralsTransformationBlur Transformation Blur]
+   * [ExamplesProceduralsDeformationBlur Deformation Blur]
+   * [ExamplesProceduralsMeshRender Mesh Render]
+   * [ExamplesProceduralsSubdivisonSurfaceRender Subdivison Surface Render]
+   * [ExamplesProceduralsPointRender Point Render]
+   * [ExamplesProceduralsPrimitiveVariables PrimitiveVariables]
+   * [ExamplesProceduralsRenderingModes Rendering Modes]
+   * [ExamplesProceduralsNestedProcedurals Nested Procedurals]
    * [ExamplesProceduralsAnimatedMesh Rendering animated meshes]
    * [ExamplesProceduralsHairShader Hair with GPU Marschner shading]
  * C++ Examples
