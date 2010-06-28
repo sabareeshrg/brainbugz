@@ -3,7 +3,7 @@
    * Working with Data
      * [ExamplesDataAttributeCache Creating an AttributeCache]
      * [ExamplesDataAttributeCacheInterpolation Interpolating AttributeCaches]
-     * [ExamplesDataCompoundData Working with CompoundData]
+     * [ExamplesDataCompoundObjects CompoundObjects]
    * Point Primitives
    * Mesh Primitives
      * [ExamplesPrimitivesParticleSurfacing Creating a mesh from a point cloud]
