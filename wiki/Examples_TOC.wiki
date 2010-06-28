@@ -2,12 +2,11 @@
  * General Functionality
    * Data
      * [ExamplesDataCompoundData Working with CompoundData]
-   * Primitives
-     * Points
-     * Meshes
-       * [ExamplesPrimitivesParticleSurfacing Creating a mesh from a point cloud]
-     * Images
-       * [ExamplesImagesIrradianceMap Irradiance environment map generation]
+   * Point Primitives
+   * Mesh Primitives
+     * [ExamplesPrimitivesParticleSurfacing Creating a mesh from a point cloud]
+   * Image Primitives
+     * [ExamplesImagesIrradianceMap Irradiance environment map generation]
  * Cortex & Maya
    * [ExamplesMayaMeshExport Converting a Mesh ]
    * [ExamplesMayaVertCache Exporting a Vertex Cache]
