@@ -1,8 +1,9 @@
 #summary Using rendering modes
+#sidebar ExamplesTOC
 
 = Rendering Modes =
 
-This example demonstrates how to render based on the current rendering context - specifically differentiating between OpenGL and RenderMan. This procedural renders a cube in OpenGL but a sphere in !RenderMan. 
+This example demonstrates how to render based on the current rendering context - specifically differentiating between OpenGL and !RenderMan. This procedural renders a cube in OpenGL but a sphere in !RenderMan. 
 
 [http://cortex-vfx.googlecode.com/svn/wiki/images/320px-Cookbook_renderModeGL.jpg]
 _opengl_
