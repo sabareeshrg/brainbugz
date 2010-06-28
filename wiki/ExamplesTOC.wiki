@@ -6,7 +6,7 @@
      * [ExamplesDataCompoundObjects CompoundObjects]
    * Point Primitives
    * Mesh Primitives
-     * [ExamplesPrimitivesParticleSurfacing Creating a mesh from a point cloud]
+     * [ExamplesPrimitivesParticleSurfacing Creating a mesh from points]
    * Image Primitives
      * [ExamplesImagesIrradianceMap Irradiance environment map generation]
  * Cortex & Python
@@ -14,11 +14,11 @@
  * Cortex & Maya
    * [ExamplesMayaMeshExport Converting a Mesh ]
    * [ExamplesMayaVertCache Exporting a Vertex Cache]
-   * [ExamplesMayaDomeBuilder Building a light dome using an environment map]
+   * [ExamplesMayaDomeBuilder Building a light dome]
  * Cortex & Houdini
  * Procedurals
    * [ExamplesProceduralsIntro Introducing Procedurals]
-   * [ExamplesProceduralsAnimatedMesh Rendering meshes with vertcaches applied]
-   * [ExamplesProceduralsHairShader Simple hair with GPU Marschner shading]
+   * [ExamplesProceduralsAnimatedMesh Rendering animated meshes]
+   * [ExamplesProceduralsHairShader Hair with GPU Marschner shading]
  * C++ Examples
-   * [ExamplesCppAttributeCache]
+   * [ExamplesCppCompoundObject CompoundObjects]
