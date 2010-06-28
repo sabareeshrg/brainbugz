@@ -1,6 +1,10 @@
- * [Examples_Introduction Introduction]
- * [#Examples_IECore General functionality]
+ * [ExamplesIntroduction Introduction]
+ * General functionality
+   * [ExamplesGeneralCompoundData Working with CompoundData]
  * Procedurals
-   * [#Example_ProceduralsIntro Intro to Procedurals]
+   * [ExamplesProceduralsIntro Introducing Procedurals]
  * Cortex & Maya
- * [Examples_CPP C++ Examples]
+   * [ExamplesMayaMeshExport Converting a Mesh ]
+   * [ExamplesMayaVertCache Exporting a Vertex Cache]
+ * [Examples_Cpp C++ Examples]
+   * [ExamplesCppAttributeCache]
