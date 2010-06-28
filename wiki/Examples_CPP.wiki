@@ -1,4 +1,5 @@
 #summary Using CPP
+#sidebar Examples_TOC
 
 = Introduction =
 
