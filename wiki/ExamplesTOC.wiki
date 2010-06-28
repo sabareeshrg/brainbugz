@@ -8,7 +8,7 @@
    * Mesh Primitives
      * [ExamplesPrimitivesParticleSurfacing Surfacing points]
    * Image Primitives
-     * [ExamplesImagesIrradianceMap Irradiance environment map generation]
+     * [ExamplesImagesIrradianceMap Irradiance map generation]
  * Cortex & Python
    * [ExamplesPythonGeneral Using Cortex in Python]
  * Cortex & Maya
