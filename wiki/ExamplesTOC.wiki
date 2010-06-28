@@ -22,6 +22,7 @@
    * [ExamplesProceduralsPrimitiveVariables PrimitiveVariables]
    * [ExamplesProceduralsRenderingModes Rendering Modes]
    * [ExamplesProceduralsNestedProcedurals Nested Procedurals]
+   * [ExamplesProceduralsLevelOfDetail Level of Detail]
    * [ExamplesProceduralsAnimatedMesh Rendering animated meshes]
    * [ExamplesProceduralsHairShader Hair with GPU Marschner shading]
  * Cortex & Python
