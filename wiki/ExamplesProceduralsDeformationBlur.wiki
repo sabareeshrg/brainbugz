@@ -62,7 +62,7 @@ In general the code will look like:
  
  	#=====
  	# Init
- 	def __init__(self)&nbsp;:
+ 	def __init__(self) :
  		ParameterisedProcedural.__init__( self, "DeformationBlur procedural." )
  		geo1 = PathParameter( name="geo1", description="Geometry #1",
  							defaultValue="test_data/deform1.cob" )
@@ -73,7 +73,7 @@ In general the code will look like:
  	#=====
  	# It's important that the bounding box extend to contain both geometry
  	# samples.
- 	def doBound(self, args)&nbsp;:
+ 	def doBound(self, args) :
  		bbox = Box3f()
  		geo1 = Reader.create( args['geo1'].value ).read()
  		geo2 = Reader.create( args['geo2'].value ).read()
@@ -83,12 +83,12 @@ In general the code will look like:
  
  	#=====
  	# Nothing to do
- 	def doRenderState(self, renderer, args)&nbsp;:
+ 	def doRenderState(self, renderer, args) :
  		pass
  
  	#=====
  	# Render our two motion samples
- 	def doRender(self, renderer, args)&nbsp;:
+ 	def doRender(self, renderer, args):
  
  		# load our geometry
  		geo1 = Reader.create( args['geo1'].value ).read()
@@ -97,9 +97,9 @@ In general the code will look like:
  		# get the shutter open/close values from the renderer
  		shutter = renderer.getOption('shutter').value # this is a V2f
  
- 		# if motion blur is not enabled then both shutter open &amp; close will
+ 		# if motion blur is not enabled then both shutter open & close will
  		# be zero.
- 		do_moblur = ( shutter.length()&gt;0 )
+ 		do_moblur = ( shutter.length() > 0 )
  
  		# inject the motion samples
  		renderer.motionBegin( [ shutter[0], shutter[1] ] )
