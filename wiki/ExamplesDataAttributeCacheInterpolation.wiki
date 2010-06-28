@@ -1,4 +1,5 @@
 #summary Interpolating Attribute Caches
+#sidebar ExamplesTOC
 
 = Introduction =
 
