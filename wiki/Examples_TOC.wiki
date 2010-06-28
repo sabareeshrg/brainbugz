@@ -1,10 +1,20 @@
  * [ExamplesIntroduction Introduction]
- * General functionality
-   * [ExamplesGeneralCompoundData Working with CompoundData]
- * Procedurals
-   * [ExamplesProceduralsIntro Introducing Procedurals]
+ * General Functionality
+   * Data
+     * [ExamplesDataCompoundData Working with CompoundData]
+   * Primitives
+     * Points
+     * Meshes
+       * [ExamplesPrimitivesParticleSurfacing Creating a mesh from a point cloud]
+     * Images
+       * [ExamplesImagesIrradianceMap Irradiance environment map generation]
  * Cortex & Maya
    * [ExamplesMayaMeshExport Converting a Mesh ]
    * [ExamplesMayaVertCache Exporting a Vertex Cache]
- * [Examples_Cpp C++ Examples]
+   * [ExamplesMayaDomeBuilder Building a light dome using an environment map]
+ * Procedurals
+   * [ExamplesProceduralsIntro Introducing Procedurals]
+   * [ExamplesProceduralsAnimatedMesh Rendering meshes with vertcaches applied]
+   * [ExamplesProceduralsHairShader Simple hair with GPU Marschner shading]
+ * C++ Examples
    * [ExamplesCppAttributeCache]
