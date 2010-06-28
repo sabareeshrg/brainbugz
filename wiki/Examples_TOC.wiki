@@ -1,7 +1,6 @@
  * [Examples_Introduction Introduction]
-   * [#Examples_CPP CPP Procedurals]
- * [#Example_IECore General functionality]
- * [#Example_Procedurals Procedurals]
+ * [#Examples_IECore General functionality]
+ * Procedurals
    * [#Example_ProceduralsIntro Intro to Procedurals]
- * [#Example_Maya Cortex & Maya]
+ * Cortex & Maya
  * [Examples_CPP C++ Examples]
