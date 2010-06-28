@@ -2,6 +2,7 @@
  * General Functionality
    * Working with Data
      * [ExamplesDataAttributeCache Creating an AttributeCache]
+     * [ExamplesDataAttributeCacheInterpolation Interpolating AttributeCaches]
      * [ExamplesDataCompoundData Working with CompoundData]
    * Point Primitives
    * Mesh Primitives
