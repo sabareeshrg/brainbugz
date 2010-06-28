@@ -1,7 +1,7 @@
 #summary Rendering animated meshes using a procedural
 #sidebar ExamplesTOC
 
-This example pulls together the MeshExportExample and the VertCacheExample by using the resulting files to render animation from within a procedural.
+This example pulls together the ExamplesMayaMeshExport and the ExamplesMayaVertCache by using the resulting files to render animation from within a procedural.
 
 == The Procedural ==
 
