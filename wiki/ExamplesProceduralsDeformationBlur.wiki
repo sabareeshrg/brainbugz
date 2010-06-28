@@ -1,0 +1,4 @@
+#summary Rendering deformation blur.
+
+[http://cortex-vfx.googlecode.com/svn/wiki/images/320px-Cookbook_deformBlur_gl.jpg]
+[http://cortex-vfx.googlecode.com/svn/wiki/images/320px-Cookbook_deformBlur.jpg]
