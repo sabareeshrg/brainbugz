@@ -1,5 +1,5 @@
 #summary Working with Compound Objects in CPP
-
+#sidebar ExamplesTOC
 = Overview  =
 
 This example creates a !CompoundObject, assigns some data to it and then saves the object to disk as an attribute cache. 
