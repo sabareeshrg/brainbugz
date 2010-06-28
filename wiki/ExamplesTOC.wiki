@@ -16,6 +16,8 @@
    * [ExamplesMayaVertCache Exporting a Vertex Cache]
    * [ExamplesMayaDomeBuilder Building a light dome]
  * Cortex & Houdini
+   * [ExamplesHoudiniProceduralSop Creating a ProceduralSop]
+   * [ExamplesHoudiniRenderingProceduralSop Rendering a ProceduralSop]
  * Procedurals
    * [ExamplesProceduralsIntro Introducing Procedurals]
    * [ExamplesProceduralsAnimatedMesh Rendering animated meshes]
