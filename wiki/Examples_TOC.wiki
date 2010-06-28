@@ -7,10 +7,12 @@
      * [ExamplesPrimitivesParticleSurfacing Creating a mesh from a point cloud]
    * Image Primitives
      * [ExamplesImagesIrradianceMap Irradiance environment map generation]
+ * Cortex & Python
  * Cortex & Maya
    * [ExamplesMayaMeshExport Converting a Mesh ]
    * [ExamplesMayaVertCache Exporting a Vertex Cache]
    * [ExamplesMayaDomeBuilder Building a light dome using an environment map]
+ * Cortex & Houdini
  * Procedurals
    * [ExamplesProceduralsIntro Introducing Procedurals]
    * [ExamplesProceduralsAnimatedMesh Rendering meshes with vertcaches applied]
