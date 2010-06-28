@@ -1,6 +1,7 @@
  * [ExamplesIntroduction Introduction]
  * General Functionality
-   * Data
+   * Working with Data
+     * [ExamplesDataAttributeCache Creating an AttributeCache]
      * [ExamplesDataCompoundData Working with CompoundData]
    * Point Primitives
    * Mesh Primitives
