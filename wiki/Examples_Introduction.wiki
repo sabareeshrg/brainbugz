@@ -1,9 +1,9 @@
 #summary Introducing the Cortex Examples
 #sidebar Examples_TOC
 
-= Introduction =
+= Examples =
 
-Cortex offers a wealth of features for VFX and Animation production. Its feature-set is constantly being improved and due to time constraints it is currently not possible to create fully fledged end-user documentation. 
+Cortex offers a wealth of features for VFX and Animation production. The code is constantly being improved, but due to time constraints it is currently not possible to create fully fledged end-user documentation. 
 
 These pages aim to give you a small glimpse of the functionality, introduce you to some of the main concepts and provide examples for common use cases you might encounter in production.
 
