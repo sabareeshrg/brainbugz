@@ -8,6 +8,7 @@
    * Image Primitives
      * [ExamplesImagesIrradianceMap Irradiance environment map generation]
  * Cortex & Python
+   * [ExamplesPythonGeneral Using Cortex in Python]
  * Cortex & Maya
    * [ExamplesMayaMeshExport Converting a Mesh ]
    * [ExamplesMayaVertCache Exporting a Vertex Cache]
