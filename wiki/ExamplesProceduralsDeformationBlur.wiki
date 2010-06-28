@@ -2,7 +2,7 @@
 #sidebar ExamplesTOC
 
 = Deformation Blur =
-This cookbook example injects two different geometries at two different time samples creating deformation blur. 
+This example injects two different geometries at two different time samples creating deformation blur. 
 
 [http://cortex-vfx.googlecode.com/svn/wiki/images/320px-Cookbook_deformBlur_gl.jpg]
 _opengl_
