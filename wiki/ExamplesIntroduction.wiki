@@ -5,7 +5,7 @@
 
 Cortex offers a wealth of features for VFX and Animation production. The code is constantly being improved, but due to time constraints it is currently not possible to create fully fledged end-user documentation. 
 
-These pages aim to give you a small glimpse of the functionality, introduce you to some of the main concepts and provide examples for common use cases you might encounter in production.
+These pages aim to give you a small glimpse of the functionality, introduce you to some of the main concepts and provide examples for common use cases you might encounter in production. Most of these examples are written in Python, using the thinly bound C++ Cortex Api.
 
 The best place to learn more about the components of Cortex are its many [http://code.google.com/p/cortex-vfx/source/browse/#svn/trunk/test test-cases] (which often are easily readable) as well as the [http://opensource.image-engine.com/doc/cortex-5.6.0/  documentation].
 
