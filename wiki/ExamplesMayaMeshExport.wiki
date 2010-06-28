@@ -1,7 +1,7 @@
 #summary Exporting meshes from maya
 #sidebar ExamplesTOC
 
-Exporting meshes from maya into the custom cortex format is pretty straightforward.
+Exporting meshes from maya into the custom cortex format is pretty straightforward. See how it can be used in ExamplesProceduralsAnimatedMesh .
 
 {{{
 import os
