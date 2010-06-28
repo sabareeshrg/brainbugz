@@ -6,7 +6,7 @@
      * [ExamplesDataCompoundObjects CompoundObjects]
    * Point Primitives
    * Mesh Primitives
-     * [ExamplesPrimitivesParticleSurfacing Creating a mesh from points]
+     * [ExamplesPrimitivesParticleSurfacing Surfacing points]
    * Image Primitives
      * [ExamplesImagesIrradianceMap Irradiance environment map generation]
  * Cortex & Python
