@@ -12,6 +12,3 @@ If this has wet your appetite - the best place to learn more about the component
 If you are curious about certain aspects of Cortex not covered here, or just want further information, please don't hesitate to post an email to the [http://groups.google.com/group/cortexdev developer discussion list]. 
 
 And if you come up with your own little examples demonstrating a feature of cortex - we'd love to have a look and add it to theses pages!
-
-Thanks,
-The Cortex Development Team
