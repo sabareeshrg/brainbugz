@@ -15,16 +15,16 @@ Motion blur is defined in a very similar fashion to !RenderMan. First we call `m
 
 In general the code will look like: 
 {{{
-      renderer.motionBegin( [ sample1, sample2, ... ] )
-      renderer.concatTransform( matrix1 )
-      renderer.concatTransform( matrix2 )
-      ...
-      renderer.motionEnd()
-      geometry.render( renderer )
+renderer.motionBegin( [ sample1, sample2, ... ] )
+renderer.concatTransform( matrix1 )
+renderer.concatTransform( matrix2 )
+...
+renderer.motionEnd()
+geometry.render( renderer )
 }}}
 *Note:* Don't forget to turn on motion blur in your renderer 
 
-*Note:* In this example OpenGL will render all the samples simultaneously. Refer to the RenderSwitch example for code that can differentiate based on which renderer is currently rendering. 
+*Note:* In this example OpenGL will render all the samples simultaneously. Refer to the [ExamplesProceduralsRenderingModes RenderMode] example for code that can differentiate based on which renderer is currently rendering. 
 
 = Code  =
 {{{
