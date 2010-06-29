@@ -81,8 +81,8 @@ ArchiveEnd  # }
 }}}
 
 The above produces this beautiful sphere
-[http://cortex-vfx.googlecode.com/svn/wiki/images/Cortex_render_01.png]
 
+[http://cortex-vfx.googlecode.com/svn/wiki/images/Cortex_render_01.png]
 
 There are multiple ways of getting the above entry into your rib:
 
