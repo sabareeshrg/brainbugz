@@ -2,7 +2,7 @@
 #sidebar ExamplesTOC
 
 = Rendering Cortex Procedural from Houdini =
-Rendering a Cortex procedural from Houdini in RenderMan requires attaching a special Geometry Shader which injects the procedural and it's parameters into the RIB. 
+Rendering a Cortex procedural from Houdini in !RenderMan requires attaching a special Geometry Shader which injects the procedural and it's parameters into the RIB. 
 
 [http://cortex-vfx.googlecode.com/svn/wiki/images/Cookbook_usingCortexRender.jpg]
 
