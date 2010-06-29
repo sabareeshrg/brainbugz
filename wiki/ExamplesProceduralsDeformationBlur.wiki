@@ -8,7 +8,7 @@ This example injects two different geometries at two different time samples crea
 _opengl_
 
 [http://cortex-vfx.googlecode.com/svn/wiki/images/320px-Cookbook_deformBlur.jpg]
-_3delight render_
+_renderman_
 
 Motion blur is defined in a very similar fashion to !RenderMan. First we call `motionBegin()` with a list of time samples. You can have as many motion samples as your renderer will allow. For each time sample we then inject some geometry. It is important that the topology remain consistent between time samples, otherwise the renderer will complain. We finish by calling `motionEnd()`. Remember not to inject anything but geometry samples between `motionBegin()` and `motionEnd()`. 
 
@@ -23,7 +23,7 @@ In general the code will look like:
 
 *Note:* Don't forget to turn on motion blur in your renderer! 
 
-*Note:* In OpenGL all samples will be rendered simultaneously. Refer to the RenderSwitch example for code that can differentiate based on which renderer is currently rendering.
+*Note:* In OpenGL all samples will be rendered simultaneously. Refer to the [ExamplesProceduralsRenderingModes Render Mode] example for code that can differentiate based on which renderer is currently rendering.
 
 = Code  =
 {{{
