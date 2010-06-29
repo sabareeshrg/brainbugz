@@ -1,0 +1,10 @@
+#summary Rendering with nested procedurals
+#sidebar ExamplesTOC
+
+= Nested Procedurals =
+
+[http://cortex-vfx.googlecode.com/svn/wiki/images/320px-Cookbook_nestedProceduralGL.jpg]
+_opengl_
+
+[http://cortex-vfx.googlecode.com/svn/wiki/images/320px-Cookbook_nestedProceduralRI.jpg]
+_renderman_
