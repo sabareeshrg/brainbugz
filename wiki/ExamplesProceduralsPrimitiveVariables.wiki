@@ -1,0 +1,11 @@
+#summary Using PrimVars
+#sidebar ExamplesTOC
+
+= Using Primitive Variables =
+
+
+[http://cortex-vfx.googlecode.com/svn/wiki/images/320px-Cookbook_primvarGL.jpg]
+_opengl_
+
+[http://cortex-vfx.googlecode.com/svn/wiki/images/320px-Cookbook_primvarRI.jpg]
+_renderman_
