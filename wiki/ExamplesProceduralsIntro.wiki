@@ -1,0 +1,46 @@
+#summary intro to procedurals
+= What is a Procedural? =
+A procedural is an Operator that can visualize itself in different contexts (for example OpenGl or !RenderMan). It can be completely platform independent and produce the same output in various host applications like Maya, Houdini or even you own home baked system.
+
+Procedurals can be written in either Python or C++, but for this introduction we will just look at the python implementation. 
+
+= Installing Procedurals =
+
+The trick to getting procedurals to render seamlessly is where they're installed. The environment variable which Cortex's ClassLoader class uses to find and Procedurals is:
+
+`$IECORE_PROCEDURAL_PATHS`
+
+This is a colon-delimited path list and under each path the Procedurals must be explicitly versioned and installed in it's own directory according to:
+
+`<PATH>/<PROCEDURAL>/<PROCEDURAL>-<VERSION>.py`
+
+For example: 
+{{{
+myProcedurals/
+|-- cubeProcedural
+|   `-- cubeProcedural-1.py
+|-- renderPointCloud
+|   |-- renderPointCloud-1.py
+|   `-- renderPointCloud-2.py
+`-- sphereProcedural
+    |-- sphereProcedural-1.py
+    |-- sphereProcedural-2.py
+    `-- sphereProcedural-3.py
+}}}
+
+Nesting is also possible:
+
+{{{
+myProcedurals/
+|-- categoryA
+|   `-- procA
+|       `-- procA-1.py
+|   `-- procB
+|       `-- procB-1.py
+|-- categoryX
+|   `-- procM
+|       `-- procM-1.py
+|   `-- procN
+|       `-- procN-1.py
+
+}}}
